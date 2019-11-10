@@ -50,8 +50,8 @@
     </head>
 
     <body>
-        <?= $Wcms->alerts() ?>
         <?= $Wcms->settings() ?>
+        <?= $Wcms->alerts() ?>
     
     	<nav class="navbar navbar-default">
     		<div class="container css3-shadow colorBackground">
