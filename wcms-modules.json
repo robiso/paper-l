@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "paper-l": {
+            "name": "Paper L",
+            "repo": "https://github.com/robiso/paper-l/tree/master",
+            "zip": "https://github.com/robiso/paper-l/archive/master.zip",
+            "summary": "Paper Lightweight wth multiple possible colors.",
+            "version": "3.2.0",
+            "image": "https://raw.githubusercontent.com/robiso/paper-l/master/preview.jpg"
+        }
+    }
+}
